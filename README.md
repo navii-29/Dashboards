@@ -18,7 +18,7 @@ This project explores Netflix’s catalog to uncover insights into:
 - **Documentaries** and **Stand-Up Comedy** are among top genres  
 
 ## 📈 Sneak Peek
-![Netflix Dashboard Preview](path-to-your-screenshot.png)
+![Netflix Dashboard Preview](https://github.com/navii-29/Dashboards/blob/main/ss.png)
 
 ## 🚀 Outcome
 A visually engaging, data-driven dashboard that enables users to explore Netflix’s global content trends interactively.
